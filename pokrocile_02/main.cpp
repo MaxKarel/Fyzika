@@ -1,6 +1,6 @@
 /* **********************************************************
     Pokrocile cvika z programovania - MATFYZ
-    CVIKA  -
+    CVIKA 2 - Diferenčné schémy
     Ulohy:
 
     Poznamky k teorii:

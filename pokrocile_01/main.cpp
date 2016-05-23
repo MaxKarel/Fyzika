@@ -1,6 +1,6 @@
 /* **********************************************************
     Pokrocile cvika z programovania - MATFYZ
-    CVIKA  -
+    CVIKA 1 - Uvod
     Ulohy:
 
     Poznamky k teorii:

@@ -1,6 +1,6 @@
 /* **********************************************************
     Pokrocile cvika z programovania - MATFYZ
-    CVIKA  -
+    CVIKA 10 - Perkolácia
     Ulohy:
 
     Poznamky k teorii:

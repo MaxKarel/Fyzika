@@ -1,10 +1,10 @@
 /* **********************************************************
     Pokrocile cvika z programovania - MATFYZ
-    CVIKA  -
+    CVIKA 7 - Diferenciálne rovnice
     Ulohy:
-
+	
     Poznamky k teorii:
-
+	Tu je naprogramovany brownov pohyb v 2D nie cez runge kutta
 ************************************************************/
 #include <iostream>
 #include <cmath>
